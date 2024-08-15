@@ -8,9 +8,9 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2348023898600'  //creator number
+global.ownername = 'king khalid' //owner name
+global.botname = 'KHALID-MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
